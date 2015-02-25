@@ -1,0 +1,627 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cura",
+				"curateVideoThumb"
+			],
+			[
+				"fullscre",
+				"fullscreenDescription"
+			],
+			[
+				"curren",
+				"currentVideo"
+			],
+			[
+				"pickMood",
+				"pickMoodActive"
+			],
+			[
+				"pickPers",
+				"pickPersonActive"
+			],
+			[
+				"pickPerson",
+				"pickPersonTitle"
+			],
+			[
+				"pickS",
+				"pickStyleActive"
+			],
+			[
+				"pickM",
+				"pickMoodActive"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"content",
+				"contentViewVisible"
+			],
+			[
+				"contentView",
+				"contentViewController"
+			],
+			[
+				"RES",
+				"RESideMenuDelegate"
+			],
+			[
+				"array_va",
+				"array_count_values"
+			],
+			[
+				"page",
+				"page_number"
+			],
+			[
+				"pla",
+				"playedVideos"
+			],
+			[
+				"maxMo",
+				"maxMoodsIndex"
+			],
+			[
+				"video",
+				"videoView"
+			],
+			[
+				"vide",
+				"videoFView"
+			],
+			[
+				"famous",
+				"famousCreatedPost"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sub",
+				"subscriber"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"ralr",
+				"raleway-extralight-webfont"
+			],
+			[
+				"des",
+				"destinationY"
+			],
+			[
+				"desit",
+				"destinationX"
+			],
+			[
+				"timelineMomentBack",
+				"timelineMomentBackgroundHeight"
+			],
+			[
+				"timelineMOmnt",
+				"timelineMomentBackgroundWidth"
+			],
+			[
+				"pan",
+				"panTransition"
+			],
+			[
+				"zoom",
+				"zoomTransition"
+			],
+			[
+				"fv",
+				"fviewId"
+			],
+			[
+				"timelineMinu",
+				"timelineMinuteScroller"
+			],
+			[
+				"tokboxA",
+				"tokboxArchiveName"
+			],
+			[
+				"tokboxAr",
+				"tokboxArchiveId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 273.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"coffeesc",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"swi",
+				"Set Syntax: Swift"
+			],
+			[
+				"obj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"swif",
+				"Set Syntax: Swift"
+			],
+			[
+				"sw",
+				"Set Syntax: Swift"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"open",
+				"File Navigator: Open"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Pawka/Journey"
+	],
+	"file_history":
+	[
+		"/Users/Pawka/Journey/Journey.sublime-project",
+		"/Users/Pawka/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Pawka/Library/Application Support/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/Users/Pawka/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/NO NAME/apps/Nintendont/meta.xml",
+		"/Users/Pawka/Developer/Parker/MomentWeb/moment.coffee",
+		"/Users/Pawka/Developer/Parker/Fappa/client/raw.coffee",
+		"/Users/Pawka/Developer/Parker/Fappa/server/raw.coffee",
+		"/Users/Pawka/Developer/Parker/MomentIOS/Podfile",
+		"/Users/Pawka/Developer/Parker/MomentNew/Podfile",
+		"/Users/Pawka/Developer/Parker/FappaTools/affiliates.php",
+		"/Users/Pawka/Developer/Parker/MomentWeb/moment.jade",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/layout.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/index.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-profile.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/dmca.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-full.scss",
+		"/Users/Pawka/Developer/Parker/MomentApp/Podfile",
+		"/Users/Pawka/Downloads/ionicons-2.0.1/css/ionicons.css",
+		"/Users/Pawka/Downloads/ionicons-2.0.1/css/ionicons.min.css",
+		"/Users/Pawka/Developer/Beep/BeepDev/raw/scss/modules/_m-profile.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/profile.php",
+		"/Users/Pawka/Developer/Beep/BeepRebirth/www/js/controllers.js",
+		"/Users/Pawka/Developer/Beep/BeepRebirth/www/templates/beeps.html",
+		"/Users/Pawka/Developer/Beep/BeepRebirth/www/css/style.css",
+		"/Users/Pawka/Developer/Beep/BeepRebirth/www/templates/beep.html",
+		"/Users/Pawka/Developer/Beep/Ping/Podfile",
+		"/Users/Pawka/Developer/Beep/Ping/README.md",
+		"/Users/Pawka/Developer/Beep/Ping/Pods/RESideMenu/RESideMenu/RESideMenu.h",
+		"/Users/Pawka/Developer/Beep/Ping/Podfile.lock",
+		"/Users/Pawka/Developer/Beep/Ping/Pods/RESideMenu/RESideMenu/RESideMenu.m",
+		"/Users/Pawka/Developer/Beep/Ping/Pods/RESideMenu/RESideMenu/UIViewController+RESideMenu.m",
+		"/Users/Pawka/Developer/Parker/FappaTools/sites.php",
+		"/Users/Pawka/Developer/Parker/FappaTools/sites.txt",
+		"/Users/Pawka/Developer/Parker/FappaTools/affiliates.txt",
+		"/Users/Pawka/Developer/Parker/FappaTools/vendor/sunra/php-simple-html-dom-parser/composer.json",
+		"/Users/Pawka/Developer/Parker/FappaTools/composer.json",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/layouts/__layouts.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/widgets/_w-btn.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/partials/beep.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-beep.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/widgets/_w-user.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/partials/beep_large.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-footer.scss",
+		"/Users/Pawka/Developer/Beep/BeepDev/index.php",
+		"/Users/Pawka/Developer/Beep/BeepDev/templates/index.php",
+		"/Users/Pawka/Developer/Beep/BeepDev/templates/details.php",
+		"/Users/Pawka/Developer/Parker/Fappa/README.md",
+		"/Users/Pawka/Developer/Parker/Fappa/compatibility/Konami.js",
+		"/Users/Pawka/Developer/Parker/Fappa/lib/compatibility/client/Screenfull.js",
+		"/Users/Pawka/Developer/Parker/Fappa/compatibility/Screenfull.js",
+		"/Users/Pawka/Developer/Parker/Moment/moment.coffee",
+		"/Users/Pawka/Developer/Parker/Moment/moment.jade",
+		"/Users/Pawka/Developer/Parker/Moment/moment.styl",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/js/app.js",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/widgets/_w-download.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/widgets/_w-record.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-reply.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/base/__base.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/widgets/_w-playbutton.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/details.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/index.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-broadcast.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/home.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/search.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-details.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-topbar.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-modal.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-content.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/oops.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-person.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/partials/reply.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/__modules.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/login.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/coming.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-hero.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/js/project.js",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/partials/person.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-drawer.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-chat.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/contact.php",
+		"/Users/Pawka/Developer/Parker/Moment/public/models/Monster/Monster.dae",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-search-bar.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-nav.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/base/_normalize.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/base/_mixins.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/js/modernizr.js",
+		"/Users/Pawka/Downloads/modernizr.custom.03237.js",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-contact.scss",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/faq.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/raw/scss/modules/_m-tabs.scss",
+		"/Users/Pawka/Developer/Beep/beephq.github.io/js/app.js",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/signup.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/privacy.php",
+		"/Users/Pawka/Developer/Beep/BeepApp/customObjCode/CDVSound.m",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/fonts/flaticon/flaticon.css",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/templates/popular.php",
+		"/Users/Pawka/Developer/Beep/BeepWebsite/.gitignore",
+		"/Users/Pawka/Developer/Parker/Moment/packages/tokbox-meteor/server/index.js",
+		"/Users/Pawka/Developer/Experiments/famous-UltraVisual/js/app/StripListView.js",
+		"/Users/Pawka/Developer/Experiments/famous-UltraVisual/js/app/PageListView.js",
+		"/Users/Pawka/Developer/Experiments/famous-UltraVisual/js/app/ListView.js",
+		"/Users/Pawka/Developer/Experiments/famous-UltraVisual/index.html",
+		"/Users/Pawka/Developer/Parker/Moment/public/assets/fonts/font-faces.css",
+		"/Users/Pawka/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Pawka/Library/Application Support/Sublime Text 3/Packages/Stylus/Stylus.sublime-settings",
+		"/Users/Pawka/Downloads/Moment-353c6a9b5ddb5aa8af97fd91dbb4d5aa87072f59/assets/css/fonts/font-faces.css",
+		"/Users/Pawka/Library/Application Support/Sublime Text 3/Packages/User/Stylus.sublime-settings",
+		"/Users/Pawka/Developer/Parker/Moment/packages/fview-kenburns/lib/post.js",
+		"/Users/Pawka/Developer/Experiments/famous/examples/views/FlexibleLayout/example.js",
+		"/Users/Pawka/Developer/Experiments/famous/examples/views/Deck/example.js",
+		"/Users/Pawka/Developer/Parker/Logo/js/main.js",
+		"/Users/Pawka/Developer/Parker/Logo/css/main.css",
+		"/Users/Pawka/Developer/Parker/Logo/index.html",
+		"/Users/Pawka/Developer/Beep/BeepApp/www/js/controllers.js",
+		"/Users/Pawka/Developer/Beep/BeepApp/www/css/style.css",
+		"/Users/Pawka/Developer/Beep/BeepApp/www/index.html",
+		"/Users/Pawka/Developer/Beep/BeepApp/.gitignore",
+		"/Users/Pawka/Developer/Beep/BeepAndroid/config.xml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"VM823:2 ",
+			"VM635:2 ",
+			"VM528:2 ",
+			"section-boxed",
+			"second-boxed",
+			".noticeImage",
+			"Move(",
+			"Raycast",
+			"Move(",
+			"<",
+			"getComponent",
+			"registerHelper",
+			"_wrapAsync",
+			"scrollView",
+			"->\n",
+			"currentVideo",
+			"setDefault 'currentVideo",
+			"curate",
+			"pickPerson",
+			"pickMOod",
+			"break",
+			"controls",
+			"pickMoodTitle",
+			"moodStyles",
+			"currentTitle",
+			"mood",
+			"video.rendered",
+			"zoomTransition",
+			"timelineActive",
+			"opacity",
+			"byId",
+			"screenfull",
+			"shift!",
+			"about.rendered",
+			"list-style-type: lower-alpha",
+			"terms",
+			"send_contact",
+			"data",
+			"window.canvas = ",
+			"../fonts/",
+			"play",
+			".play",
+			"self.startCapture",
+			"endVideoCapture",
+			"endCapture",
+			"resetCapture",
+			"vision = ",
+			"capturePhoto",
+			"visionSessionDidStart",
+			"visionSessionDid",
+			".delegate = self",
+			"aws",
+			"                                                                                 ",
+			"contentViewVisible",
+			"addContentViewControllerMotionEffects",
+			"resetContentViewScale",
+			"rightMenuVisible",
+			"contentViewVisible",
+			"willHIdeMenuViewController",
+			"contentViewVisible",
+			"rightMenuVisible",
+			"hell",
+			"endCapture",
+			"handleDoneButton",
+			"capturedVideo",
+			"ended",
+			"resetCapture",
+			"visionDidPause",
+			"pauseCapture",
+			"previewView",
+			"PBJStrobe",
+			"Strobe",
+			"focus",
+			"fucked_hard_",
+			"girls_do_",
+			"http://www.signbucks.com/sites/go/id/21457-pantyhose_video",
+			"\\n",
+			"http://www.signbucks.com/partners/go/id/1749-real_photo_studios",
+			"beep-heading {",
+			"SideMenuCell",
+			"  ",
+			"    		    ",
+			"VM295:3 ",
+			"			    ",
+			"http://www.",
+			"/main.htm?p=clean",
+			"/home.htm?wm_refer=cc028",
+			"/sites.htm?wm_refer=cc028",
+			"/signup.htm?wm_refer=cc028",
+			"VM368:6 ",
+			"/",
+			"/main",
+			"/",
+			"http//",
+			"www.",
+			"/",
+			"/tours/1/",
+			"/2/",
+			"/tour2/",
+			"/",
+			"/main.html",
+			"/index.php",
+			"http://",
+			"VM182:6 ",
+			"/",
+			"http://www.",
+			"VM246:5 ",
+			"http://tour.",
+			"comlive_chat",
+			"http://tour.naughtyamerica.comsites/",
+			"com/",
+			"http://www.",
+			"VM433:2 ",
+			"/",
+			"/nats",
+			"VM249:5 http://",
+			"VM249:5 http://www.",
+			"/",
+			"http://",
+			"http://www.",
+			"VM523:2 ",
+			"/",
+			"http://www.",
+			"VM598:2 ",
+			"http://enter.",
+			"http://www.",
+			"/track",
+			"/track/MzE1MzEuMzEuNy4zNjEuMC4wLjAuMC4w"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Journey.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/Beep/BeepWebsite/BeepWebsite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 143.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
