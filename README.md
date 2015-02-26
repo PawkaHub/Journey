@@ -4,6 +4,4 @@
 
 <!-- /MarkdownTOC -->
 
-* [Bill](#bill)
-
 # Bill
