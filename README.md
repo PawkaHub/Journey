@@ -1,3 +1,5 @@
+# Contents
+
 <!-- MarkdownTOC depth=1 autolink=true bracket=round -->
 
 - [Game Design](#game design)
@@ -1079,3 +1081,2620 @@ The currency in the game is called Notes, and the player can earn them through t
     - Voice 9
     - Voice 10
 ### Name
+## Adventurers
+### Adventurer 1
+### Adventurer 2
+### Adventurer 3
+### Adventurer 4
+### Adventurer 5
+### Adventurer 6
+### Adventurer 7
+### Adventurer 8
+### Adventurer 9
+### Adventurer 10
+### Adventurer 11
+### Adventurer 12
+### Adventurer 13
+### Adventurer 14
+### Adventurer 15
+### Adventurer 16
+### Adventurer 17
+### Adventurer 18
+### Adventurer 19
+### Adventurer 20
+### Adventurer 21
+### Adventurer 22
+### Adventurer 23
+### Adventurer 24
+### Adventurer 25
+### Adventurer 26
+### Adventurer 27
+### Adventurer 28
+### Adventurer 29
+### Adventurer 30
+### Adventurer 31
+### Adventurer 32
+### Adventurer 33
+### Adventurer 34
+### Adventurer 35
+### Adventurer 36
+### Adventurer 37
+### Adventurer 38
+### Adventurer 39
+### Adventurer 40
+### Adventurer 41
+### Adventurer 42
+### Adventurer 43
+### Adventurer 44
+### Adventurer 45
+### Adventurer 46
+### Adventurer 47
+### Adventurer 48
+### Adventurer 49
+### Adventurer 50
+### Adventurer 51
+### Adventurer 52
+### Adventurer 53
+### Adventurer 54
+### Adventurer 55
+### Adventurer 56
+### Adventurer 57
+### Adventurer 58
+### Adventurer 59
+### Adventurer 60
+### Adventurer 61
+### Adventurer 62
+### Adventurer 63
+### Adventurer 64
+### Adventurer 65
+### Adventurer 66
+### Adventurer 67
+### Adventurer 68
+### Adventurer 69
+### Adventurer 70
+### Adventurer 71
+### Adventurer 72
+### Adventurer 73
+### Adventurer 74
+### Adventurer 75
+### Adventurer 76
+### Adventurer 77
+### Adventurer 78
+### Adventurer 79
+### Adventurer 80
+### Adventurer 81
+### Adventurer 82
+### Adventurer 83
+### Adventurer 84
+### Adventurer 85
+### Adventurer 86
+### Adventurer 87
+### Adventurer 88
+### Adventurer 89
+### Adventurer 90
+### Adventurer 91
+### Adventurer 92
+### Adventurer 93
+### Adventurer 94
+### Adventurer 95
+### Adventurer 96
+### Adventurer 97
+### Adventurer 98
+### Adventurer 99
+### Adventurer 100
+### Adventurer 101
+### Adventurer 102
+### Adventurer 103
+### Adventurer 104
+### Adventurer 105
+### Adventurer 106
+### Adventurer 107
+### Adventurer 108
+### Adventurer 109
+### Adventurer 110
+### Adventurer 111
+### Adventurer 112
+### Adventurer 113
+### Adventurer 114
+### Adventurer 115
+### Adventurer 116
+### Adventurer 117
+### Adventurer 118
+### Adventurer 119
+### Adventurer 120
+### Adventurer 121
+### Adventurer 122
+### Adventurer 123
+### Adventurer 124
+### Adventurer 125
+### Adventurer 126
+### Adventurer 127
+### Adventurer 128
+### Adventurer 129
+### Adventurer 130
+### Adventurer 131
+### Adventurer 132
+### Adventurer 133
+### Adventurer 134
+### Adventurer 135
+### Adventurer 136
+### Adventurer 137
+### Adventurer 138
+### Adventurer 139
+### Adventurer 140
+### Adventurer 141
+### Adventurer 142
+### Adventurer 143
+### Adventurer 144
+### Adventurer 145
+### Adventurer 146
+### Adventurer 147
+### Adventurer 148
+### Adventurer 149
+### Adventurer 150
+### Adventurer 151
+### Adventurer 152
+### Adventurer 153
+### Adventurer 154
+### Adventurer 155
+### Adventurer 156
+### Adventurer 157
+### Adventurer 158
+### Adventurer 159
+### Adventurer 160
+### Adventurer 161
+### Adventurer 162
+### Adventurer 163
+### Adventurer 164
+### Adventurer 165
+### Adventurer 166
+### Adventurer 167
+### Adventurer 168
+### Adventurer 169
+### Adventurer 170
+### Adventurer 171
+### Adventurer 172
+### Adventurer 173
+### Adventurer 174
+### Adventurer 175
+### Adventurer 176
+### Adventurer 177
+### Adventurer 178
+### Adventurer 179
+### Adventurer 180
+### Adventurer 181
+### Adventurer 182
+### Adventurer 183
+### Adventurer 184
+### Adventurer 185
+### Adventurer 186
+### Adventurer 187
+### Adventurer 188
+### Adventurer 189
+### Adventurer 190
+### Adventurer 191
+### Adventurer 192
+### Adventurer 193
+### Adventurer 194
+### Adventurer 195
+### Adventurer 196
+### Adventurer 197
+### Adventurer 198
+### Adventurer 199
+### Adventurer 200
+### Adventurer 201
+### Adventurer 202
+### Adventurer 203
+### Adventurer 204
+### Adventurer 205
+### Adventurer 206
+### Adventurer 207
+### Adventurer 208
+### Adventurer 209
+### Adventurer 210
+### Adventurer 211
+### Adventurer 212
+### Adventurer 213
+### Adventurer 214
+### Adventurer 215
+### Adventurer 216
+### Adventurer 217
+### Adventurer 218
+### Adventurer 219
+### Adventurer 220
+### Adventurer 221
+### Adventurer 222
+### Adventurer 223
+### Adventurer 224
+### Adventurer 225
+### Adventurer 226
+### Adventurer 227
+### Adventurer 228
+### Adventurer 229
+### Adventurer 230
+### Adventurer 231
+### Adventurer 232
+### Adventurer 233
+### Adventurer 234
+### Adventurer 235
+### Adventurer 236
+### Adventurer 237
+### Adventurer 238
+### Adventurer 239
+### Adventurer 240
+### Adventurer 241
+### Adventurer 242
+### Adventurer 243
+### Adventurer 244
+### Adventurer 245
+### Adventurer 246
+### Adventurer 247
+### Adventurer 248
+### Adventurer 249
+### Adventurer 250
+### Adventurer 251
+### Adventurer 252
+### Adventurer 253
+### Adventurer 254
+### Adventurer 255
+### Adventurer 256
+### Adventurer 257
+### Adventurer 258
+### Adventurer 259
+### Adventurer 260
+### Adventurer 261
+### Adventurer 262
+### Adventurer 263
+### Adventurer 264
+### Adventurer 265
+### Adventurer 266
+### Adventurer 267
+### Adventurer 268
+### Adventurer 269
+### Adventurer 270
+### Adventurer 271
+### Adventurer 272
+### Adventurer 273
+### Adventurer 274
+### Adventurer 275
+### Adventurer 276
+### Adventurer 277
+### Adventurer 278
+### Adventurer 279
+### Adventurer 280
+### Adventurer 281
+### Adventurer 282
+### Adventurer 283
+### Adventurer 284
+### Adventurer 285
+### Adventurer 286
+### Adventurer 287
+### Adventurer 288
+### Adventurer 289
+### Adventurer 290
+### Adventurer 291
+### Adventurer 292
+### Adventurer 293
+### Adventurer 294
+### Adventurer 295
+### Adventurer 296
+### Adventurer 297
+### Adventurer 298
+### Adventurer 299
+### Adventurer 300
+### Adventurer 301
+### Adventurer 302
+### Adventurer 303
+### Adventurer 304
+### Adventurer 305
+### Adventurer 306
+### Adventurer 307
+### Adventurer 308
+### Adventurer 309
+### Adventurer 310
+### Adventurer 311
+### Adventurer 312
+### Adventurer 313
+### Adventurer 314
+### Adventurer 315
+### Adventurer 316
+### Adventurer 317
+### Adventurer 318
+### Adventurer 319
+### Adventurer 320
+### Adventurer 321
+### Adventurer 322
+### Adventurer 323
+### Adventurer 324
+### Adventurer 325
+### Adventurer 326
+### Adventurer 327
+### Adventurer 328
+### Adventurer 329
+### Adventurer 330
+### Adventurer 331
+### Adventurer 332
+### Adventurer 333
+### Adventurer 334
+### Adventurer 335
+### Adventurer 336
+### Adventurer 337
+### Adventurer 338
+### Adventurer 339
+### Adventurer 340
+### Adventurer 341
+### Adventurer 342
+### Adventurer 343
+### Adventurer 344
+### Adventurer 345
+### Adventurer 346
+### Adventurer 347
+### Adventurer 348
+### Adventurer 349
+### Adventurer 350
+### Adventurer 351
+### Adventurer 352
+### Adventurer 353
+### Adventurer 354
+### Adventurer 355
+### Adventurer 356
+### Adventurer 357
+### Adventurer 358
+### Adventurer 359
+### Adventurer 360
+### Adventurer 361
+### Adventurer 362
+### Adventurer 363
+### Adventurer 364
+### Adventurer 365
+### Adventurer 366
+### Adventurer 367
+### Adventurer 368
+### Adventurer 369
+### Adventurer 370
+### Adventurer 371
+### Adventurer 372
+### Adventurer 373
+### Adventurer 374
+### Adventurer 375
+### Adventurer 376
+### Adventurer 377
+### Adventurer 378
+### Adventurer 379
+### Adventurer 380
+### Adventurer 381
+### Adventurer 382
+### Adventurer 383
+### Adventurer 384
+### Adventurer 385
+### Adventurer 386
+### Adventurer 387
+### Adventurer 388
+### Adventurer 389
+### Adventurer 390
+### Adventurer 391
+### Adventurer 392
+### Adventurer 393
+### Adventurer 394
+### Adventurer 395
+### Adventurer 396
+### Adventurer 397
+### Adventurer 398
+### Adventurer 399
+### Adventurer 400
+### Adventurer 401
+### Adventurer 402
+### Adventurer 403
+### Adventurer 404
+### Adventurer 405
+### Adventurer 406
+### Adventurer 407
+### Adventurer 408
+### Adventurer 409
+### Adventurer 410
+### Adventurer 411
+### Adventurer 412
+### Adventurer 413
+### Adventurer 414
+### Adventurer 415
+### Adventurer 416
+### Adventurer 417
+### Adventurer 418
+### Adventurer 419
+### Adventurer 420
+### Adventurer 421
+### Adventurer 422
+### Adventurer 423
+### Adventurer 424
+### Adventurer 425
+### Adventurer 426
+### Adventurer 427
+### Adventurer 428
+### Adventurer 429
+### Adventurer 430
+### Adventurer 431
+### Adventurer 432
+### Adventurer 433
+### Adventurer 434
+### Adventurer 435
+### Adventurer 436
+### Adventurer 437
+### Adventurer 438
+### Adventurer 439
+### Adventurer 440
+### Adventurer 441
+### Adventurer 442
+### Adventurer 443
+### Adventurer 444
+### Adventurer 445
+### Adventurer 446
+### Adventurer 447
+### Adventurer 448
+### Adventurer 449
+### Adventurer 450
+### Adventurer 451
+### Adventurer 452
+### Adventurer 453
+### Adventurer 454
+### Adventurer 455
+### Adventurer 456
+### Adventurer 457
+### Adventurer 458
+### Adventurer 459
+### Adventurer 460
+### Adventurer 461
+### Adventurer 462
+### Adventurer 463
+### Adventurer 464
+### Adventurer 465
+### Adventurer 466
+### Adventurer 467
+### Adventurer 468
+### Adventurer 469
+### Adventurer 470
+### Adventurer 471
+### Adventurer 472
+### Adventurer 473
+### Adventurer 474
+### Adventurer 475
+### Adventurer 476
+### Adventurer 477
+### Adventurer 478
+### Adventurer 479
+### Adventurer 480
+### Adventurer 481
+### Adventurer 482
+### Adventurer 483
+### Adventurer 484
+### Adventurer 485
+### Adventurer 486
+### Adventurer 487
+### Adventurer 488
+### Adventurer 489
+### Adventurer 490
+### Adventurer 491
+### Adventurer 492
+### Adventurer 493
+### Adventurer 494
+### Adventurer 495
+### Adventurer 496
+### Adventurer 497
+### Adventurer 498
+### Adventurer 499
+### Adventurer 500
+### Adventurer 501
+### Adventurer 502
+### Adventurer 503
+### Adventurer 504
+### Adventurer 505
+### Adventurer 506
+### Adventurer 507
+### Adventurer 508
+### Adventurer 509
+### Adventurer 510
+### Adventurer 511
+### Adventurer 512
+### Adventurer 513
+### Adventurer 514
+### Adventurer 515
+### Adventurer 516
+### Adventurer 517
+### Adventurer 518
+### Adventurer 519
+### Adventurer 520
+### Adventurer 521
+### Adventurer 522
+### Adventurer 523
+### Adventurer 524
+### Adventurer 525
+### Adventurer 526
+### Adventurer 527
+### Adventurer 528
+### Adventurer 529
+### Adventurer 530
+### Adventurer 531
+### Adventurer 532
+### Adventurer 533
+### Adventurer 534
+### Adventurer 535
+### Adventurer 536
+### Adventurer 537
+### Adventurer 538
+### Adventurer 539
+### Adventurer 540
+### Adventurer 541
+### Adventurer 542
+### Adventurer 543
+### Adventurer 544
+### Adventurer 545
+### Adventurer 546
+### Adventurer 547
+### Adventurer 548
+### Adventurer 549
+### Adventurer 550
+### Adventurer 551
+### Adventurer 552
+### Adventurer 553
+### Adventurer 554
+### Adventurer 555
+### Adventurer 556
+### Adventurer 557
+### Adventurer 558
+### Adventurer 559
+### Adventurer 560
+### Adventurer 561
+### Adventurer 562
+### Adventurer 563
+### Adventurer 564
+### Adventurer 565
+### Adventurer 566
+### Adventurer 567
+### Adventurer 568
+### Adventurer 569
+### Adventurer 570
+### Adventurer 571
+### Adventurer 572
+### Adventurer 573
+### Adventurer 574
+### Adventurer 575
+### Adventurer 576
+### Adventurer 577
+### Adventurer 578
+### Adventurer 579
+### Adventurer 580
+### Adventurer 581
+### Adventurer 582
+### Adventurer 583
+### Adventurer 584
+### Adventurer 585
+### Adventurer 586
+### Adventurer 587
+### Adventurer 588
+### Adventurer 589
+### Adventurer 590
+### Adventurer 591
+### Adventurer 592
+### Adventurer 593
+### Adventurer 594
+### Adventurer 595
+### Adventurer 596
+### Adventurer 597
+### Adventurer 598
+### Adventurer 599
+### Adventurer 600
+### Adventurer 601
+### Adventurer 602
+### Adventurer 603
+### Adventurer 604
+### Adventurer 605
+### Adventurer 606
+### Adventurer 607
+### Adventurer 608
+### Adventurer 609
+### Adventurer 610
+### Adventurer 611
+### Adventurer 612
+### Adventurer 613
+### Adventurer 614
+### Adventurer 615
+### Adventurer 616
+### Adventurer 617
+### Adventurer 618
+### Adventurer 619
+### Adventurer 620
+### Adventurer 621
+### Adventurer 622
+### Adventurer 623
+### Adventurer 624
+### Adventurer 625
+### Adventurer 626
+### Adventurer 627
+### Adventurer 628
+### Adventurer 629
+### Adventurer 630
+### Adventurer 631
+### Adventurer 632
+### Adventurer 633
+### Adventurer 634
+### Adventurer 635
+### Adventurer 636
+### Adventurer 637
+### Adventurer 638
+### Adventurer 639
+### Adventurer 640
+### Adventurer 641
+### Adventurer 642
+### Adventurer 643
+### Adventurer 644
+### Adventurer 645
+### Adventurer 646
+### Adventurer 647
+### Adventurer 648
+### Adventurer 649
+### Adventurer 650
+### Adventurer 651
+### Adventurer 652
+### Adventurer 653
+### Adventurer 654
+### Adventurer 655
+### Adventurer 656
+### Adventurer 657
+### Adventurer 658
+### Adventurer 659
+### Adventurer 660
+### Adventurer 661
+### Adventurer 662
+### Adventurer 663
+### Adventurer 664
+### Adventurer 665
+### Adventurer 666
+### Adventurer 667
+### Adventurer 668
+### Adventurer 669
+### Adventurer 670
+### Adventurer 671
+### Adventurer 672
+### Adventurer 673
+### Adventurer 674
+### Adventurer 675
+### Adventurer 676
+### Adventurer 677
+### Adventurer 678
+### Adventurer 679
+### Adventurer 680
+### Adventurer 681
+### Adventurer 682
+### Adventurer 683
+### Adventurer 684
+### Adventurer 685
+### Adventurer 686
+### Adventurer 687
+### Adventurer 688
+### Adventurer 689
+### Adventurer 690
+### Adventurer 691
+### Adventurer 692
+### Adventurer 693
+### Adventurer 694
+### Adventurer 695
+### Adventurer 696
+### Adventurer 697
+### Adventurer 698
+### Adventurer 699
+### Adventurer 700
+### Adventurer 701
+### Adventurer 702
+### Adventurer 703
+### Adventurer 704
+### Adventurer 705
+### Adventurer 706
+### Adventurer 707
+### Adventurer 708
+### Adventurer 709
+### Adventurer 710
+### Adventurer 711
+### Adventurer 712
+### Adventurer 713
+### Adventurer 714
+### Adventurer 715
+### Adventurer 716
+### Adventurer 717
+### Adventurer 718
+### Adventurer 719
+### Adventurer 720
+### Adventurer 721
+### Adventurer 722
+### Adventurer 723
+### Adventurer 724
+### Adventurer 725
+### Adventurer 726
+### Adventurer 727
+### Adventurer 728
+### Adventurer 729
+### Adventurer 730
+### Adventurer 731
+### Adventurer 732
+### Adventurer 733
+### Adventurer 734
+### Adventurer 735
+### Adventurer 736
+### Adventurer 737
+### Adventurer 738
+### Adventurer 739
+### Adventurer 740
+### Adventurer 741
+### Adventurer 742
+### Adventurer 743
+### Adventurer 744
+### Adventurer 745
+### Adventurer 746
+### Adventurer 747
+### Adventurer 748
+### Adventurer 749
+### Adventurer 750
+### Adventurer 751
+### Adventurer 752
+### Adventurer 753
+### Adventurer 754
+### Adventurer 755
+### Adventurer 756
+### Adventurer 757
+### Adventurer 758
+### Adventurer 759
+### Adventurer 760
+### Adventurer 761
+### Adventurer 762
+### Adventurer 763
+### Adventurer 764
+### Adventurer 765
+### Adventurer 766
+### Adventurer 767
+### Adventurer 768
+### Adventurer 769
+### Adventurer 770
+### Adventurer 771
+### Adventurer 772
+### Adventurer 773
+### Adventurer 774
+### Adventurer 775
+### Adventurer 776
+### Adventurer 777
+### Adventurer 778
+### Adventurer 779
+### Adventurer 780
+### Adventurer 781
+### Adventurer 782
+### Adventurer 783
+### Adventurer 784
+### Adventurer 785
+### Adventurer 786
+### Adventurer 787
+### Adventurer 788
+### Adventurer 789
+### Adventurer 790
+### Adventurer 791
+### Adventurer 792
+### Adventurer 793
+### Adventurer 794
+### Adventurer 795
+### Adventurer 796
+### Adventurer 797
+### Adventurer 798
+### Adventurer 799
+### Adventurer 800
+### Adventurer 801
+### Adventurer 802
+### Adventurer 803
+### Adventurer 804
+### Adventurer 805
+### Adventurer 806
+### Adventurer 807
+### Adventurer 808
+### Adventurer 809
+### Adventurer 810
+### Adventurer 811
+### Adventurer 812
+### Adventurer 813
+### Adventurer 814
+### Adventurer 815
+### Adventurer 816
+### Adventurer 817
+### Adventurer 818
+### Adventurer 819
+### Adventurer 820
+### Adventurer 821
+### Adventurer 822
+### Adventurer 823
+### Adventurer 824
+### Adventurer 825
+### Adventurer 826
+### Adventurer 827
+### Adventurer 828
+### Adventurer 829
+### Adventurer 830
+### Adventurer 831
+### Adventurer 832
+### Adventurer 833
+### Adventurer 834
+### Adventurer 835
+### Adventurer 836
+### Adventurer 837
+### Adventurer 838
+### Adventurer 839
+### Adventurer 840
+### Adventurer 841
+### Adventurer 842
+### Adventurer 843
+### Adventurer 844
+### Adventurer 845
+### Adventurer 846
+### Adventurer 847
+### Adventurer 848
+### Adventurer 849
+### Adventurer 850
+### Adventurer 851
+### Adventurer 852
+### Adventurer 853
+### Adventurer 854
+### Adventurer 855
+### Adventurer 856
+### Adventurer 857
+### Adventurer 858
+### Adventurer 859
+### Adventurer 860
+### Adventurer 861
+### Adventurer 862
+### Adventurer 863
+### Adventurer 864
+### Adventurer 865
+### Adventurer 866
+### Adventurer 867
+### Adventurer 868
+### Adventurer 869
+### Adventurer 870
+### Adventurer 871
+### Adventurer 872
+### Adventurer 873
+### Adventurer 874
+### Adventurer 875
+### Adventurer 876
+### Adventurer 877
+### Adventurer 878
+### Adventurer 879
+### Adventurer 880
+### Adventurer 881
+### Adventurer 882
+### Adventurer 883
+### Adventurer 884
+### Adventurer 885
+### Adventurer 886
+### Adventurer 887
+### Adventurer 888
+### Adventurer 889
+### Adventurer 890
+### Adventurer 891
+### Adventurer 892
+### Adventurer 893
+### Adventurer 894
+### Adventurer 895
+### Adventurer 896
+### Adventurer 897
+### Adventurer 898
+### Adventurer 899
+### Adventurer 900
+### Adventurer 901
+### Adventurer 902
+### Adventurer 903
+### Adventurer 904
+### Adventurer 905
+### Adventurer 906
+### Adventurer 907
+### Adventurer 908
+### Adventurer 909
+### Adventurer 910
+### Adventurer 911
+### Adventurer 912
+### Adventurer 913
+### Adventurer 914
+### Adventurer 915
+### Adventurer 916
+### Adventurer 917
+### Adventurer 918
+### Adventurer 919
+### Adventurer 920
+### Adventurer 921
+### Adventurer 922
+### Adventurer 923
+### Adventurer 924
+### Adventurer 925
+### Adventurer 926
+### Adventurer 927
+### Adventurer 928
+### Adventurer 929
+### Adventurer 930
+### Adventurer 931
+### Adventurer 932
+### Adventurer 933
+### Adventurer 934
+### Adventurer 935
+### Adventurer 936
+### Adventurer 937
+### Adventurer 938
+### Adventurer 939
+### Adventurer 940
+### Adventurer 941
+### Adventurer 942
+### Adventurer 943
+### Adventurer 944
+### Adventurer 945
+### Adventurer 946
+### Adventurer 947
+### Adventurer 948
+### Adventurer 949
+### Adventurer 950
+### Adventurer 951
+### Adventurer 952
+### Adventurer 953
+### Adventurer 954
+### Adventurer 955
+### Adventurer 956
+### Adventurer 957
+### Adventurer 958
+### Adventurer 959
+### Adventurer 960
+### Adventurer 961
+### Adventurer 962
+### Adventurer 963
+### Adventurer 964
+### Adventurer 965
+### Adventurer 966
+### Adventurer 967
+### Adventurer 968
+### Adventurer 969
+### Adventurer 970
+### Adventurer 971
+### Adventurer 972
+### Adventurer 973
+### Adventurer 974
+### Adventurer 975
+### Adventurer 976
+### Adventurer 977
+### Adventurer 978
+### Adventurer 979
+### Adventurer 980
+### Adventurer 981
+### Adventurer 982
+### Adventurer 983
+### Adventurer 984
+### Adventurer 985
+### Adventurer 986
+### Adventurer 987
+### Adventurer 988
+### Adventurer 989
+### Adventurer 990
+### Adventurer 991
+### Adventurer 992
+### Adventurer 993
+### Adventurer 994
+### Adventurer 995
+### Adventurer 996
+### Adventurer 997
+### Adventurer 998
+### Adventurer 999
+### Adventurer 1000
+### Adventurer 1001
+## Wandering Adventurers
+Wandering Adventurers appear at specific times within the player’s town, and rumors about them showing up can always be heard in the days leading up to the events. Wanderers are special in that they offer the player one-off bonuses or perks during their visit, and then they leave town until adventure brings them back again. A wandering adventurer will stay in the player’s town for 24 hours upon their arrival.
+### Assassin
+    - Shows up when: It’s a full moon and the wind is blowing to the east
+    - Arrives at: 2:00 AM
+    - Quest Details:
+    - Reward:
+### Shaman
+    - Shows up when: It’s rained three days in a row
+    - Arrives at: 6:00 AM
+    - Quest Details:
+    - Reward:
+### Ronin
+    - Shows up when: It’s the first day of Spring in Japan
+    - Arrives at: 12:00 PM
+    - Quest Details:
+    - Reward: Sakkat mask
+### Ghost
+    - Shows up when: It’s Halloween
+    - Arrives at: 12:00 AM
+    - Quest Details:
+    - Reward: Ghost Bandana
+### Southern Raider
+    - Shows up when: It’s above 30 degrees
+    - Arrives at: 5:00 AM
+    - Quest Details:
+    - Reward: Southern Raider Mask
+### Blue Spirit
+    - Shows up when: It’s fall
+    - Arrives at: 12:00 AM
+    - Quest Details:
+    - Reward: Blue Spirit Mask
+### Wanderer 6
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 7
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 8
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 9
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 10
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 11
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 12
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 13
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 14
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 15
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 16
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 17
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 18
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 19
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 20
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 21
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 22
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 23
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 24
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 25
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 26
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 27
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 28
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 29
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 30
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 31
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 32
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 33
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 34
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 35
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 36
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 37
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 38
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 39
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 40
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 41
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 42
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 43
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 44
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 45
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 46
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 47
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 48
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 49
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 50
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 51
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 52
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 53
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 54
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 55
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 56
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 57
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 58
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 59
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 60
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 61
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 62
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 63
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 64
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 65
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 66
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 67
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 68
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 69
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 70
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 71
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 72
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 73
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 74
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 75
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 76
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 77
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 78
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 79
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 80
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 81
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 82
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 83
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 84
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 85
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 86
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 87
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 88
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 89
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 90
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 91
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 92
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 93
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 94
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 95
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 96
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 97
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 98
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 99
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 100
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:
+### Wanderer 10
+    - Shows up when:
+    - Arrives at:
+    - Quest Details:
+    - Reward:1
+## Pets
+### Pet 1
+### Pet 2
+### Pet 3
+### Pet 4
+### Pet 5
+### Pet 6
+### Pet 7
+### Pet 8
+### Pet 9
+### Pet 10
+### Pet 11
+### Pet 12
+### Pet 13
+### Pet 14
+### Pet 15
+### Pet 16
+### Pet 17
+### Pet 18
+### Pet 19
+### Pet 20
+### Pet 21
+### Pet 22
+### Pet 23
+### Pet 24
+### Pet 25
+### Pet 26
+### Pet 27
+### Pet 28
+### Pet 29
+### Pet 30
+### Pet 31
+### Pet 32
+### Pet 33
+### Pet 34
+### Pet 35
+### Pet 36
+### Pet 37
+### Pet 38
+### Pet 39
+### Pet 40
+### Pet 41
+### Pet 42
+### Pet 43
+### Pet 44
+### Pet 45
+### Pet 46
+### Pet 47
+### Pet 48
+### Pet 49
+### Pet 50
+### Pet 51
+### Pet 52
+### Pet 53
+### Pet 54
+### Pet 55
+### Pet 56
+### Pet 57
+### Pet 58
+### Pet 59
+### Pet 60
+### Pet 61
+### Pet 62
+### Pet 63
+### Pet 64
+### Pet 65
+### Pet 66
+### Pet 67
+### Pet 68
+### Pet 69
+### Pet 70
+### Pet 71
+### Pet 72
+### Pet 73
+### Pet 74
+### Pet 75
+### Pet 76
+### Pet 77
+### Pet 78
+### Pet 79
+### Pet 80
+### Pet 81
+### Pet 82
+### Pet 83
+### Pet 84
+### Pet 85
+### Pet 86
+### Pet 87
+### Pet 88
+### Pet 89
+### Pet 90
+### Pet 91
+### Pet 92
+### Pet 93
+### Pet 94
+### Pet 95
+### Pet 96
+### Pet 97
+### Pet 98
+### Pet 99
+### Pet 100
+## Monsters
+### Monster 1
+### Monster 2
+### Monster 3
+### Monster 4
+### Monster 5
+### Monster 6
+### Monster 7
+### Monster 8
+### Monster 9
+### Monster 10
+### Monster 11
+### Monster 12
+### Monster 13
+### Monster 14
+### Monster 15
+### Monster 16
+### Monster 17
+### Monster 18
+### Monster 19
+### Monster 20
+### Monster 21
+### Monster 22
+### Monster 23
+### Monster 24
+### Monster 25
+### Monster 26
+### Monster 27
+### Monster 28
+### Monster 29
+### Monster 30
+### Monster 31
+### Monster 32
+### Monster 33
+### Monster 34
+### Monster 35
+### Monster 36
+### Monster 37
+### Monster 38
+### Monster 39
+### Monster 40
+### Monster 41
+### Monster 42
+### Monster 43
+### Monster 44
+### Monster 45
+### Monster 46
+### Monster 47
+### Monster 48
+### Monster 49
+### Monster 50
+### Monster 51
+### Monster 52
+### Monster 53
+### Monster 54
+### Monster 55
+### Monster 56
+### Monster 57
+### Monster 58
+### Monster 59
+### Monster 60
+### Monster 61
+### Monster 62
+### Monster 63
+### Monster 64
+### Monster 65
+### Monster 66
+### Monster 67
+### Monster 68
+### Monster 69
+### Monster 70
+### Monster 71
+### Monster 72
+### Monster 73
+### Monster 74
+### Monster 75
+### Monster 76
+### Monster 77
+### Monster 78
+### Monster 79
+### Monster 80
+### Monster 81
+### Monster 82
+### Monster 83
+### Monster 84
+### Monster 85
+### Monster 86
+### Monster 87
+### Monster 88
+### Monster 89
+### Monster 90
+### Monster 91
+### Monster 92
+### Monster 93
+### Monster 94
+### Monster 95
+### Monster 96
+### Monster 97
+### Monster 98
+### Monster 99
+### Monster 100
+### Monster 101
+### Monster 102
+### Monster 103
+### Monster 104
+### Monster 105
+### Monster 106
+### Monster 107
+### Monster 108
+### Monster 109
+### Monster 110
+### Monster 111
+### Monster 112
+### Monster 113
+### Monster 114
+### Monster 115
+### Monster 116
+### Monster 117
+### Monster 118
+### Monster 119
+### Monster 120
+### Monster 121
+### Monster 122
+### Monster 123
+### Monster 124
+### Monster 125
+### Monster 126
+### Monster 127
+### Monster 128
+### Monster 129
+### Monster 130
+### Monster 131
+### Monster 132
+### Monster 133
+### Monster 134
+### Monster 135
+### Monster 136
+### Monster 137
+### Monster 138
+### Monster 139
+### Monster 140
+### Monster 141
+### Monster 142
+### Monster 143
+### Monster 144
+### Monster 145
+### Monster 146
+### Monster 147
+### Monster 148
+### Monster 149
+### Monster 150
+### Monster 151
+### Monster 152
+### Monster 153
+### Monster 154
+### Monster 155
+### Monster 156
+### Monster 157
+### Monster 158
+### Monster 159
+### Monster 160
+### Monster 161
+### Monster 162
+### Monster 163
+### Monster 164
+### Monster 165
+### Monster 166
+### Monster 167
+### Monster 168
+### Monster 169
+### Monster 170
+### Monster 171
+### Monster 172
+### Monster 173
+### Monster 174
+### Monster 175
+### Monster 176
+### Monster 177
+### Monster 178
+### Monster 179
+### Monster 180
+### Monster 181
+### Monster 182
+### Monster 183
+### Monster 184
+### Monster 185
+### Monster 186
+### Monster 187
+### Monster 188
+### Monster 189
+### Monster 190
+### Monster 191
+### Monster 192
+### Monster 193
+### Monster 194
+### Monster 195
+### Monster 196
+### Monster 197
+### Monster 198
+### Monster 199
+### Monster 200
+### Monster 201
+### Monster 202
+### Monster 203
+### Monster 204
+### Monster 205
+### Monster 206
+### Monster 207
+### Monster 208
+### Monster 209
+### Monster 210
+### Monster 211
+### Monster 212
+### Monster 213
+### Monster 214
+### Monster 215
+### Monster 216
+### Monster 217
+### Monster 218
+### Monster 219
+### Monster 220
+### Monster 221
+### Monster 222
+### Monster 223
+### Monster 224
+### Monster 225
+### Monster 226
+### Monster 227
+### Monster 228
+### Monster 229
+### Monster 230
+### Monster 231
+### Monster 232
+### Monster 233
+### Monster 234
+### Monster 235
+### Monster 236
+### Monster 237
+### Monster 238
+### Monster 239
+### Monster 240
+### Monster 241
+### Monster 242
+### Monster 243
+### Monster 244
+### Monster 245
+### Monster 246
+### Monster 247
+### Monster 248
+### Monster 249
+### Monster 250
+### Monster 251
+### Monster 252
+### Monster 253
+### Monster 254
+### Monster 255
+### Monster 256
+### Monster 257
+### Monster 258
+### Monster 259
+### Monster 260
+### Monster 261
+### Monster 262
+### Monster 263
+### Monster 264
+### Monster 265
+### Monster 266
+### Monster 267
+### Monster 268
+### Monster 269
+### Monster 270
+### Monster 271
+### Monster 272
+### Monster 273
+### Monster 274
+### Monster 275
+### Monster 276
+### Monster 277
+### Monster 278
+### Monster 279
+### Monster 280
+### Monster 281
+### Monster 282
+### Monster 283
+### Monster 284
+### Monster 285
+### Monster 286
+### Monster 287
+### Monster 288
+### Monster 289
+### Monster 290
+### Monster 291
+### Monster 292
+### Monster 293
+### Monster 294
+### Monster 295
+### Monster 296
+### Monster 297
+### Monster 298
+### Monster 299
+### Monster 300
+### Monster 301
+### Monster 302
+### Monster 303
+### Monster 304
+### Monster 305
+### Monster 306
+### Monster 307
+### Monster 308
+### Monster 309
+### Monster 310
+### Monster 311
+### Monster 312
+### Monster 313
+### Monster 314
+### Monster 315
+### Monster 316
+### Monster 317
+### Monster 318
+### Monster 319
+### Monster 320
+### Monster 321
+### Monster 322
+### Monster 323
+### Monster 324
+### Monster 325
+### Monster 326
+### Monster 327
+### Monster 328
+### Monster 329
+### Monster 330
+### Monster 331
+### Monster 332
+### Monster 333
+### Monster 334
+### Monster 335
+### Monster 336
+### Monster 337
+### Monster 338
+### Monster 339
+### Monster 340
+### Monster 341
+### Monster 342
+### Monster 343
+### Monster 344
+### Monster 345
+### Monster 346
+### Monster 347
+### Monster 348
+### Monster 349
+### Monster 350
+### Monster 351
+### Monster 352
+### Monster 353
+### Monster 354
+### Monster 355
+### Monster 356
+### Monster 357
+### Monster 358
+### Monster 359
+### Monster 360
+### Monster 361
+### Monster 362
+### Monster 363
+### Monster 364
+### Monster 365
+### Monster 366
+### Monster 367
+### Monster 368
+### Monster 369
+### Monster 370
+### Monster 371
+### Monster 372
+### Monster 373
+### Monster 374
+### Monster 375
+### Monster 376
+### Monster 377
+### Monster 378
+### Monster 379
+### Monster 380
+### Monster 381
+### Monster 382
+### Monster 383
+### Monster 384
+### Monster 385
+### Monster 386
+### Monster 387
+### Monster 388
+### Monster 389
+### Monster 390
+### Monster 391
+### Monster 392
+### Monster 393
+### Monster 394
+### Monster 395
+### Monster 396
+### Monster 397
+### Monster 398
+### Monster 399
+### Monster 400
+### Monster 401
+### Monster 402
+### Monster 403
+### Monster 404
+### Monster 405
+### Monster 406
+### Monster 407
+### Monster 408
+### Monster 409
+### Monster 410
+### Monster 411
+### Monster 412
+### Monster 413
+### Monster 414
+### Monster 415
+### Monster 416
+### Monster 417
+### Monster 418
+### Monster 419
+### Monster 420
+### Monster 421
+### Monster 422
+### Monster 423
+### Monster 424
+### Monster 425
+### Monster 426
+### Monster 427
+### Monster 428
+### Monster 429
+### Monster 430
+### Monster 431
+### Monster 432
+### Monster 433
+### Monster 434
+### Monster 435
+### Monster 436
+### Monster 437
+### Monster 438
+### Monster 439
+### Monster 440
+### Monster 441
+### Monster 442
+### Monster 443
+### Monster 444
+### Monster 445
+### Monster 446
+### Monster 447
+### Monster 448
+### Monster 449
+### Monster 450
+### Monster 451
+### Monster 452
+### Monster 453
+### Monster 454
+### Monster 455
+### Monster 456
+### Monster 457
+### Monster 458
+### Monster 459
+### Monster 460
+### Monster 461
+### Monster 462
+### Monster 463
+### Monster 464
+### Monster 465
+### Monster 466
+### Monster 467
+### Monster 468
+### Monster 469
+### Monster 470
+### Monster 471
+### Monster 472
+### Monster 473
+### Monster 474
+### Monster 475
+### Monster 476
+### Monster 477
+### Monster 478
+### Monster 479
+### Monster 480
+### Monster 481
+### Monster 482
+### Monster 483
+### Monster 484
+### Monster 485
+### Monster 486
+### Monster 487
+### Monster 488
+### Monster 489
+### Monster 490
+### Monster 491
+### Monster 492
+### Monster 493
+### Monster 494
+### Monster 495
+### Monster 496
+### Monster 497
+### Monster 498
+### Monster 499
+### Monster 500
+### Monster 501
+### Monster 502
+### Monster 503
+### Monster 504
+### Monster 505
+### Monster 506
+### Monster 507
+### Monster 508
+### Monster 509
+### Monster 510
+### Monster 511
+### Monster 512
+### Monster 513
+### Monster 514
+### Monster 515
+### Monster 516
+### Monster 517
+### Monster 518
+### Monster 519
+### Monster 520
+### Monster 521
+### Monster 522
+### Monster 523
+### Monster 524
+### Monster 525
+### Monster 526
+### Monster 527
+### Monster 528
+### Monster 529
+### Monster 530
+### Monster 531
+### Monster 532
+### Monster 533
+### Monster 534
+### Monster 535
+### Monster 536
+### Monster 537
+### Monster 538
+### Monster 539
+### Monster 540
+### Monster 541
+### Monster 542
+### Monster 543
+### Monster 544
+### Monster 545
+### Monster 546
+### Monster 547
+### Monster 548
+### Monster 549
+### Monster 550
+### Monster 551
+### Monster 552
+### Monster 553
+### Monster 554
+### Monster 555
+### Monster 556
+### Monster 557
+### Monster 558
+### Monster 559
+### Monster 560
+### Monster 561
+### Monster 562
+### Monster 563
+### Monster 564
+### Monster 565
+### Monster 566
+### Monster 567
+### Monster 568
+### Monster 569
+### Monster 570
+### Monster 571
+### Monster 572
+### Monster 573
+### Monster 574
+### Monster 575
+### Monster 576
+### Monster 577
+### Monster 578
+### Monster 579
+### Monster 580
+### Monster 581
+### Monster 582
+### Monster 583
+### Monster 584
+### Monster 585
+### Monster 586
+### Monster 587
+### Monster 588
+### Monster 589
+### Monster 590
+### Monster 591
+### Monster 592
+### Monster 593
+### Monster 594
+### Monster 595
+### Monster 596
+### Monster 597
+### Monster 598
+### Monster 599
+### Monster 600
+### Monster 601
+### Monster 602
+### Monster 603
+### Monster 604
+### Monster 605
+### Monster 606
+### Monster 607
+### Monster 608
+### Monster 609
+### Monster 610
+### Monster 611
+### Monster 612
+### Monster 613
+### Monster 614
+### Monster 615
+### Monster 616
+### Monster 617
+### Monster 618
+### Monster 619
+### Monster 620
+### Monster 621
+### Monster 622
+### Monster 623
+### Monster 624
+### Monster 625
+### Monster 626
+### Monster 627
+### Monster 628
+### Monster 629
+### Monster 630
+### Monster 631
+### Monster 632
+### Monster 633
+### Monster 634
+### Monster 635
+### Monster 636
+### Monster 637
+### Monster 638
+### Monster 639
+### Monster 640
+### Monster 641
+### Monster 642
+### Monster 643
+### Monster 644
+### Monster 645
+### Monster 646
+### Monster 647
+### Monster 648
+### Monster 649
+### Monster 650
+### Monster 651
+### Monster 652
+### Monster 653
+### Monster 654
+### Monster 655
+### Monster 656
+### Monster 657
+### Monster 658
+### Monster 659
+### Monster 660
+### Monster 661
+### Monster 662
+### Monster 663
+### Monster 664
+### Monster 665
+### Monster 666
+### Monster 667
+### Monster 668
+### Monster 669
+### Monster 670
+### Monster 671
+### Monster 672
+### Monster 673
+### Monster 674
+### Monster 675
+### Monster 676
+### Monster 677
+### Monster 678
+### Monster 679
+### Monster 680
+### Monster 681
+### Monster 682
+### Monster 683
+### Monster 684
+### Monster 685
+### Monster 686
+### Monster 687
+### Monster 688
+### Monster 689
+### Monster 690
+### Monster 691
+### Monster 692
+### Monster 693
+### Monster 694
+### Monster 695
+### Monster 696
+### Monster 697
+### Monster 698
+### Monster 699
+### Monster 700
+### Monster 701
+### Monster 702
+### Monster 703
+### Monster 704
+### Monster 705
+### Monster 706
+### Monster 707
+### Monster 708
+### Monster 709
+### Monster 710
+### Monster 711
+### Monster 712
+### Monster 713
+### Monster 714
+### Monster 715
+### Monster 716
+### Monster 717
+### Monster 718
+### Monster 719
+### Monster 720
+### Monster 721
+### Monster 722
+### Monster 723
+### Monster 724
+### Monster 725
+### Monster 726
+### Monster 727
+### Monster 728
+### Monster 729
+### Monster 730
+### Monster 731
+### Monster 732
+### Monster 733
+### Monster 734
+### Monster 735
+### Monster 736
+### Monster 737
+### Monster 738
+### Monster 739
+### Monster 740
+### Monster 741
+### Monster 742
+### Monster 743
+### Monster 744
+### Monster 745
+### Monster 746
+### Monster 747
+### Monster 748
+### Monster 749
+### Monster 750
+### Monster 751
+### Monster 752
+### Monster 753
+### Monster 754
+### Monster 755
+### Monster 756
+### Monster 757
+### Monster 758
+### Monster 759
+### Monster 760
+### Monster 761
+### Monster 762
+### Monster 763
+### Monster 764
+### Monster 765
+### Monster 766
+### Monster 767
+### Monster 768
+### Monster 769
+### Monster 770
+### Monster 771
+### Monster 772
+### Monster 773
+### Monster 774
+### Monster 775
+### Monster 776
+### Monster 777
+### Monster 778
+### Monster 779
+### Monster 780
+### Monster 781
+### Monster 782
+### Monster 783
+### Monster 784
+### Monster 785
+### Monster 786
+### Monster 787
+### Monster 788
+### Monster 789
+### Monster 790
+### Monster 791
+### Monster 792
+### Monster 793
+### Monster 794
+### Monster 795
+### Monster 796
+### Monster 797
+### Monster 798
+### Monster 799
+### Monster 800
+### Monster 801
+### Monster 802
+### Monster 803
+### Monster 804
+### Monster 805
+### Monster 806
+### Monster 807
+### Monster 808
+### Monster 809
+### Monster 810
+### Monster 811
+### Monster 812
+### Monster 813
+### Monster 814
+### Monster 815
+### Monster 816
+### Monster 817
+### Monster 818
+### Monster 819
+### Monster 820
+### Monster 821
+### Monster 822
+### Monster 823
+### Monster 824
+### Monster 825
+### Monster 826
+### Monster 827
+### Monster 828
+### Monster 829
+### Monster 830
+### Monster 831
+### Monster 832
+### Monster 833
+### Monster 834
+### Monster 835
+### Monster 836
+### Monster 837
+### Monster 838
+### Monster 839
+### Monster 840
+### Monster 841
+### Monster 842
+### Monster 843
+### Monster 844
+### Monster 845
+### Monster 846
+### Monster 847
+### Monster 848
+### Monster 849
+### Monster 850
+### Monster 851
+### Monster 852
+### Monster 853
+### Monster 854
+### Monster 855
+### Monster 856
+### Monster 857
+### Monster 858
+### Monster 859
+### Monster 860
+### Monster 861
+### Monster 862
+### Monster 863
+### Monster 864
+### Monster 865
+### Monster 866
+### Monster 867
+### Monster 868
+### Monster 869
+### Monster 870
+### Monster 871
+### Monster 872
+### Monster 873
+### Monster 874
+### Monster 875
+### Monster 876
+### Monster 877
+### Monster 878
+### Monster 879
+### Monster 880
+### Monster 881
+### Monster 882
+### Monster 883
+### Monster 884
+### Monster 885
+### Monster 886
+### Monster 887
+### Monster 888
+### Monster 889
+### Monster 890
+### Monster 891
+### Monster 892
+### Monster 893
+### Monster 894
+### Monster 895
+### Monster 896
+### Monster 897
+### Monster 898
+### Monster 899
+### Monster 900
+### Monster 901
+### Monster 902
+### Monster 903
+### Monster 904
+### Monster 905
+### Monster 906
+### Monster 907
+### Monster 908
+### Monster 909
+### Monster 910
+### Monster 911
+### Monster 912
+### Monster 913
+### Monster 914
+### Monster 915
+### Monster 916
+### Monster 917
+### Monster 918
+### Monster 919
+### Monster 920
+### Monster 921
+### Monster 922
+### Monster 923
+### Monster 924
+### Monster 925
+### Monster 926
+### Monster 927
+### Monster 928
+### Monster 929
+### Monster 930
+### Monster 931
+### Monster 932
+### Monster 933
+### Monster 934
+### Monster 935
+### Monster 936
+### Monster 937
+### Monster 938
+### Monster 939
+### Monster 940
+### Monster 941
+### Monster 942
+### Monster 943
+### Monster 944
+### Monster 945
+### Monster 946
+### Monster 947
+### Monster 948
+### Monster 949
+### Monster 950
+### Monster 951
+### Monster 952
+### Monster 953
+### Monster 954
+### Monster 955
+### Monster 956
+### Monster 957
+### Monster 958
+### Monster 959
+### Monster 960
+### Monster 961
+### Monster 962
+### Monster 963
+### Monster 964
+### Monster 965
+### Monster 966
+### Monster 967
+### Monster 968
+### Monster 969
+### Monster 970
+### Monster 971
+### Monster 972
+### Monster 973
+### Monster 974
+### Monster 975
+### Monster 976
+### Monster 977
+### Monster 978
+### Monster 979
+### Monster 980
+### Monster 981
+### Monster 982
+### Monster 983
+### Monster 984
+### Monster 985
+### Monster 986
+### Monster 987
+### Monster 988
+### Monster 989
+### Monster 990
+### Monster 991
+### Monster 992
+### Monster 993
+### Monster 994
+### Monster 995
+### Monster 996
+### Monster 997
+### Monster 998
+### Monster 999
+### Monster 1000
+### Monster 1001
