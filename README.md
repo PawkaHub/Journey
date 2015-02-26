@@ -5,6 +5,7 @@
 - [Game Design](#game design)
 - [Inspirations](#inspirations)
 - [Characters](#characters)
+- [Maps](#maps)
 
 <!-- /MarkdownTOC -->
 
@@ -3698,3 +3699,26 @@ Wandering Adventurers appear at specific times within the player’s town, and r
 ### Monster 999
 ### Monster 1000
 ### Monster 1001
+
+# Maps
+A compilation of potential maps that could be featured in the game, and their purposes. Overworld parts of the map will be obscured by fog of war to encourage the player to explore and to fill out their Cartography map. The map will also contain ten preset houses that the player can move into.
+## Town
+The Town 
+### Buildings
+### NPCs
+### Quests
+
+## Guild
+### Buildings
+### NPCs
+### Quests
+
+## Capital City
+### Buildings
+### NPCs
+### Quests
+
+## Overworld
+### Buildings
+### NPCs
+### Quests 
