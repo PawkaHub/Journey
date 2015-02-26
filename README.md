@@ -2,6 +2,7 @@
 
 - [Game Design](#game design)
 - [Inspirations](#inspirations)
+- [Characters](#characters)
 
 <!-- /MarkdownTOC -->
 
@@ -48,3 +49,1033 @@ The currency in the game is called Notes, and the player can earn them through t
 *To be filled in*
 ## Music
 *To be filled in*
+
+# Characters
+## Player Customization
+### Gender
+    - Male
+    - Female
+### Body
+#### Size
+    - Short
+    - Stocky
+    - Heavy
+    - Slender
+    - Lean
+    - Normal
+    - Tall
+    - Strong
+    - Hourglass
+    - Rectangular
+    - Athletic
+#### Skin Color
+    - White
+    - Off White
+    - Pearl
+    - Off Peach
+    - Peach
+    - Yellow
+    - Off Yellow
+    - Tan
+    - Brown
+    - Dark Brown
+    - Black
+### Face
+#### Face Shape
+    - Short (Round)
+    - Stocky (Square)
+    - Heavy (Oval)
+    - Egg (Slender)
+    - Normal (Normal)
+    - Tall (Elongated)
+#### Hair
+##### Style
+    - Bald Cut
+    - Buzz Cut
+    - Short Cut
+    - Trimmed Cut
+    - Unkempt Cut
+    - Ponytail Cut
+    - Neat Cut
+    - Bushy Cut
+    - Long Cut
+    - Wavy Cut
+    - Curved Cut
+    - Razor Cut
+    - Pixie Cut
+    - Mullet Cut
+    - Crew Cut
+    - Fringe Cut
+    - French Braid Cut
+    - French Twist Cut
+    - Flattop Cut
+    - Shaggy Cut
+    - Spikey Cut
+    - Windswept Cut
+    - Fishtail Cut
+    - Ponytail Cut
+    - Feathered Cut
+    - Finger Wave Cut
+    - Curtained Hair Cut
+    - Cropped Hair Cut
+    - Chignon Hair Cut
+    - Bun Cut
+    - Braid Cut
+    - Perm Hair Cut
+    - Pigtails Cut
+    - Afro Cut
+    - Pompadour Cut
+    - Blow out Cut
+    - Asymmetric Cut
+    - Big Hair Cut
+    - Bob Cut
+    - Bowl Cut
+    - Bouffant Cut
+    - Comb Over Cut
+    - Crown Braid Cut
+    - Croydon Facelift Cut
+    - Devilock Cut
+    - Dice Bob Cut
+    - Dido Flip Cut
+    - Duck's Tail Cut
+    - Emo Hair Cut
+    - Fade Cut
+    - Fauxhawk Cut
+    - Fallera Cut
+    - Flattop Cut
+    - Flipped Cut
+    - Fontage Cut
+    - Updo Cut 1
+    - Updo Cut 2
+    - Updo Cut 3
+    - Updo Cut 4
+    - Updo Cut 5
+    - Updo Cut 6
+    - Updo Cut 7
+    - Updo Cut 8
+    - Updo Cut 9
+    - Updo Cut 10
+    - Half Updo Cut 1
+    - Half Updo Cut 2
+    - Half Updo Cut 3
+    - Half Updo Cut 4
+    - Half Updo Cut 5
+    - Half Updo Cut 6
+    - Half Updo Cut 7
+    - Half Updo Cut 8
+    - Half Updo Cut 9
+    - Half Updo Cut 10
+    - Long Bob Cut
+    - Hime Cut
+    - Hi-Top Cut
+    - Layered Hair Cut
+    - Line Up Cut
+    - Liberty Spikes Cut
+    - Macklemore Cut
+    - Marcelling Cut
+    - Mod Cut
+    - Mop Top Cut
+    - Odango Cut
+    - Pageboy Cut
+    - Parted Cut
+    - Queue Cut
+    - Quiff Cut
+    - Rachel Cut
+    - Rattail Cut
+    - Ringlet Cut
+    - Shingle Bob Cut
+    - Slicked Back Cut
+    - Surfer Hair Cut
+    - Under Cut
+    - Crimped Hair Cut
+    - Super Saiyan Hair Cut
+    - Kennedy Cut (Beautiful)
+    - Pieter Cut (Untamable)
+##### Color
+###### Black
+    - Dark Black
+    - Deep Black
+    - Medium Black
+    - Light Black
+    - Off Black
+###### Brown
+    - Dark Brown
+    - Deep Brown
+    - Medium Brown
+    - Light Brown
+    - Off Brown
+    - Brunette
+    - Chestnut Brown
+    - Light Chestnut Brown
+    - Auburn Brown
+    - Auburn
+###### Red
+    - Dark Red
+    - Deep Red
+    - Medium Red
+    - Light Red
+    - Off Red
+    - Copper
+    - Red
+    - Titian
+    - Strawberry Blonde
+###### Blonde
+    - Dark Blonde (Dirty Blonde)
+    - Deep Blonde
+    - Medium Blonde
+    - Light Blonde
+    - Off Blonde
+    - Golden Blonde
+###### Orange
+    - Dark Orange
+    - Deep Orange
+    - Medium Orange
+    - Light Orange
+    - Off Orange
+    - Strawberry Orange
+    - Golden Orange
+###### Blue
+    - Dark Blue
+    - Deep Blue
+    - Medium Blue
+    - Light Blue
+    - Off Blue
+    - Aqua Blue
+    - Teal Blue
+###### Green
+    - Dark Green
+    - Deep Green
+    - Medium Green
+    - Light Green
+    - Off Green
+###### Purple
+    - Dark Purple
+    - Deep Purple
+    - Medium Purple
+    - Light Purple
+    - Off Purple
+    - Violet
+    - Pink Purple
+###### Pink
+    - Dark Pink
+    - Deep Pink
+    - Medium Pink
+    - Light Pink
+    - Off Pink
+    - Strawberry Pink
+###### Gray
+    - Dark Gray
+    - Deep Gray
+    - Medium Gray
+    - Light Gray
+    - Off Gray
+###### White
+    - Dark White
+    - Deep White
+    - Medium White
+    - Light White
+    - Off White
+#### Eyebrows
+    - Eyebrow Type 1
+    - Eyebrow Type 2
+    - Eyebrow Type 3
+    - Eyebrow Type 4
+    - Eyebrow Type 5
+    - Eyebrow Type 6
+    - Eyebrow Type 7
+    - Eyebrow Type 8
+    - Eyebrow Type 9
+    - Eyebrow Type 10
+    - Eyebrow Type 11
+    - Eyebrow Type 12
+    - Eyebrow Type 13
+    - Eyebrow Type 14
+    - Eyebrow Type 15
+    - Eyebrow Type 16
+    - Eyebrow Type 17
+    - Eyebrow Type 18
+    - Eyebrow Type 19
+    - Eyebrow Type 20
+    - Eyebrow Type 21
+    - Eyebrow Type 22
+    - Eyebrow Type 23
+    - Eyebrow Type 24
+    - Eyebrow Type 25
+    - Eyebrow Type 26
+    - Eyebrow Type 27
+    - Eyebrow Type 28
+    - Eyebrow Type 29
+    - Eyebrow Type 30
+    - Eyebrow Type 31
+    - Eyebrow Type 32
+    - Eyebrow Type 33
+    - Eyebrow Type 34
+    - Eyebrow Type 35
+    - Eyebrow Type 36
+    - Eyebrow Type 37
+    - Eyebrow Type 38
+    - Eyebrow Type 39
+    - Eyebrow Type 40
+    - Eyebrow Type 41
+    - Eyebrow Type 42
+    - Eyebrow Type 43
+    - Eyebrow Type 44
+    - Eyebrow Type 45
+    - Eyebrow Type 46
+    - Eyebrow Type 47
+    - Eyebrow Type 48
+    - Eyebrow Type 49
+    - Eyebrow Type 50
+    - Eyebrow Type 51
+    - Eyebrow Type 52
+    - Eyebrow Type 53
+    - Eyebrow Type 54
+    - Eyebrow Type 55
+    - Eyebrow Type 56
+    - Eyebrow Type 57
+    - Eyebrow Type 58
+    - Eyebrow Type 59
+    - Eyebrow Type 60
+    - Eyebrow Type 61
+    - Eyebrow Type 62
+    - Eyebrow Type 63
+    - Eyebrow Type 64
+    - Eyebrow Type 65
+    - Eyebrow Type 66
+    - Eyebrow Type 67
+    - Eyebrow Type 68
+    - Eyebrow Type 69
+    - Eyebrow Type 70
+    - Eyebrow Type 71
+    - Eyebrow Type 72
+    - Eyebrow Type 73
+    - Eyebrow Type 74
+    - Eyebrow Type 75
+    - Eyebrow Type 76
+    - Eyebrow Type 77
+    - Eyebrow Type 78
+    - Eyebrow Type 79
+    - Eyebrow Type 80
+    - Eyebrow Type 81
+    - Eyebrow Type 82
+    - Eyebrow Type 83
+    - Eyebrow Type 84
+    - Eyebrow Type 85
+    - Eyebrow Type 86
+    - Eyebrow Type 87
+    - Eyebrow Type 88
+    - Eyebrow Type 89
+    - Eyebrow Type 90
+    - Eyebrow Type 91
+    - Eyebrow Type 92
+    - Eyebrow Type 93
+    - Eyebrow Type 94
+    - Eyebrow Type 95
+    - Eyebrow Type 96
+    - Eyebrow Type 97
+    - Eyebrow Type 98
+    - Eyebrow Type 99
+    - Eyebrow Type 100
+#### Eyes
+##### Type
+    - Eye Type 1
+    - Eye Type 2
+    - Eye Type 3
+    - Eye Type 4
+    - Eye Type 5
+    - Eye Type 6
+    - Eye Type 7
+    - Eye Type 8
+    - Eye Type 9
+    - Eye Type 10
+    - Eye Type 11
+    - Eye Type 12
+    - Eye Type 13
+    - Eye Type 14
+    - Eye Type 15
+    - Eye Type 16
+    - Eye Type 17
+    - Eye Type 18
+    - Eye Type 19
+    - Eye Type 20
+    - Eye Type 21
+    - Eye Type 22
+    - Eye Type 23
+    - Eye Type 24
+    - Eye Type 25
+    - Eye Type 26
+    - Eye Type 27
+    - Eye Type 28
+    - Eye Type 29
+    - Eye Type 30
+    - Eye Type 31
+    - Eye Type 32
+    - Eye Type 33
+    - Eye Type 34
+    - Eye Type 35
+    - Eye Type 36
+    - Eye Type 37
+    - Eye Type 38
+    - Eye Type 39
+    - Eye Type 40
+    - Eye Type 41
+    - Eye Type 42
+    - Eye Type 43
+    - Eye Type 44
+    - Eye Type 45
+    - Eye Type 46
+    - Eye Type 47
+    - Eye Type 48
+    - Eye Type 49
+    - Eye Type 50
+    - Eye Type 51
+    - Eye Type 52
+    - Eye Type 53
+    - Eye Type 54
+    - Eye Type 55
+    - Eye Type 56
+    - Eye Type 57
+    - Eye Type 58
+    - Eye Type 59
+    - Eye Type 60
+    - Eye Type 61
+    - Eye Type 62
+    - Eye Type 63
+    - Eye Type 64
+    - Eye Type 65
+    - Eye Type 66
+    - Eye Type 67
+    - Eye Type 68
+    - Eye Type 69
+    - Eye Type 70
+    - Eye Type 71
+    - Eye Type 72
+    - Eye Type 73
+    - Eye Type 74
+    - Eye Type 75
+    - Eye Type 76
+    - Eye Type 77
+    - Eye Type 78
+    - Eye Type 79
+    - Eye Type 80
+    - Eye Type 81
+    - Eye Type 82
+    - Eye Type 83
+    - Eye Type 84
+    - Eye Type 85
+    - Eye Type 86
+    - Eye Type 87
+    - Eye Type 88
+    - Eye Type 89
+    - Eye Type 90
+    - Eye Type 91
+    - Eye Type 92
+    - Eye Type 93
+    - Eye Type 94
+    - Eye Type 95
+    - Eye Type 96
+    - Eye Type 97
+    - Eye Type 98
+    - Eye Type 99
+    - Eye Type 100
+##### Color
+###### Black
+    - Dark Black
+    - Deep Black
+    - Medium Black
+    - Light Black
+    - Off Black
+###### Brown
+    - Dark Brown
+    - Deep Brown
+    - Medium Brown
+    - Light Brown
+    - Off Brown
+    - Brunette
+    - Chestnut Brown
+    - Light Chestnut Brown
+    - Auburn Brown
+    - Auburn
+###### Red
+    - Dark Red
+    - Deep Red
+    - Medium Red
+    - Light Red
+    - Off Red
+    - Copper
+    - Red
+    - Titian
+    - Strawberry Blonde
+###### Blonde
+    - Dark Blonde (Dirty Blonde)
+    - Deep Blonde
+    - Medium Blonde
+    - Light Blonde
+    - Off Blonde
+    - Golden Blonde
+###### Orange
+    - Dark Orange
+    - Deep Orange
+    - Medium Orange
+    - Light Orange
+    - Off Orange
+    - Strawberry Orange
+    - Golden Orange
+###### Blue
+    - Dark Blue
+    - Deep Blue
+    - Medium Blue
+    - Light Blue
+    - Off Blue
+    - Aqua Blue
+    - Teal Blue
+###### Green
+    - Dark Green
+    - Deep Green
+    - Medium Green
+    - Light Green
+    - Off Green
+###### Purple
+    - Dark Purple
+    - Deep Purple
+    - Medium Purple
+    - Light Purple
+    - Off Purple
+    - Violet
+    - Pink Purple
+###### Pink
+    - Dark Pink
+    - Deep Pink
+    - Medium Pink
+    - Light Pink
+    - Off Pink
+    - Strawberry Pink
+###### Gray
+    - Dark Gray
+    - Deep Gray
+    - Medium Gray
+    - Light Gray
+    - Off Gray
+###### White
+    - Dark White
+    - Deep White
+    - Medium White
+    - Light White
+    - Off White
+#### Nose
+    - Nose Type 1
+    - Nose Type 2
+    - Nose Type 3
+    - Nose Type 4
+    - Nose Type 5
+    - Nose Type 6
+    - Nose Type 7
+    - Nose Type 8
+    - Nose Type 9
+    - Nose Type 10
+    - Nose Type 11
+    - Nose Type 12
+    - Nose Type 13
+    - Nose Type 14
+    - Nose Type 15
+    - Nose Type 16
+    - Nose Type 17
+    - Nose Type 18
+    - Nose Type 19
+    - Nose Type 20
+    - Nose Type 21
+    - Nose Type 22
+    - Nose Type 23
+    - Nose Type 24
+    - Nose Type 25
+    - Nose Type 26
+    - Nose Type 27
+    - Nose Type 28
+    - Nose Type 29
+    - Nose Type 30
+    - Nose Type 31
+    - Nose Type 32
+    - Nose Type 33
+    - Nose Type 34
+    - Nose Type 35
+    - Nose Type 36
+    - Nose Type 37
+    - Nose Type 38
+    - Nose Type 39
+    - Nose Type 40
+    - Nose Type 41
+    - Nose Type 42
+    - Nose Type 43
+    - Nose Type 44
+    - Nose Type 45
+    - Nose Type 46
+    - Nose Type 47
+    - Nose Type 48
+    - Nose Type 49
+    - Nose Type 50
+    - Nose Type 51
+    - Nose Type 52
+    - Nose Type 53
+    - Nose Type 54
+    - Nose Type 55
+    - Nose Type 56
+    - Nose Type 57
+    - Nose Type 58
+    - Nose Type 59
+    - Nose Type 60
+    - Nose Type 61
+    - Nose Type 62
+    - Nose Type 63
+    - Nose Type 64
+    - Nose Type 65
+    - Nose Type 66
+    - Nose Type 67
+    - Nose Type 68
+    - Nose Type 69
+    - Nose Type 70
+    - Nose Type 71
+    - Nose Type 72
+    - Nose Type 73
+    - Nose Type 74
+    - Nose Type 75
+    - Nose Type 76
+    - Nose Type 77
+    - Nose Type 78
+    - Nose Type 79
+    - Nose Type 80
+    - Nose Type 81
+    - Nose Type 82
+    - Nose Type 83
+    - Nose Type 84
+    - Nose Type 85
+    - Nose Type 86
+    - Nose Type 87
+    - Nose Type 88
+    - Nose Type 89
+    - Nose Type 90
+    - Nose Type 91
+    - Nose Type 92
+    - Nose Type 93
+    - Nose Type 94
+    - Nose Type 95
+    - Nose Type 96
+    - Nose Type 97
+    - Nose Type 98
+    - Nose Type 99
+    - Nose Type 100
+#### Ear
+    - Ear Type 1
+    - Ear Type 2
+    - Ear Type 3
+    - Ear Type 4
+    - Ear Type 5
+    - Ear Type 6
+    - Ear Type 7
+    - Ear Type 8
+    - Ear Type 9
+    - Ear Type 10
+    - Ear Type 11
+    - Ear Type 12
+    - Ear Type 13
+    - Ear Type 14
+    - Ear Type 15
+    - Ear Type 16
+    - Ear Type 17
+    - Ear Type 18
+    - Ear Type 19
+    - Ear Type 20
+    - Ear Type 21
+    - Ear Type 22
+    - Ear Type 23
+    - Ear Type 24
+    - Ear Type 25
+    - Ear Type 26
+    - Ear Type 27
+    - Ear Type 28
+    - Ear Type 29
+    - Ear Type 30
+    - Ear Type 31
+    - Ear Type 32
+    - Ear Type 33
+    - Ear Type 34
+    - Ear Type 35
+    - Ear Type 36
+    - Ear Type 37
+    - Ear Type 38
+    - Ear Type 39
+    - Ear Type 40
+    - Ear Type 41
+    - Ear Type 42
+    - Ear Type 43
+    - Ear Type 44
+    - Ear Type 45
+    - Ear Type 46
+    - Ear Type 47
+    - Ear Type 48
+    - Ear Type 49
+    - Ear Type 50
+    - Ear Type 51
+    - Ear Type 52
+    - Ear Type 53
+    - Ear Type 54
+    - Ear Type 55
+    - Ear Type 56
+    - Ear Type 57
+    - Ear Type 58
+    - Ear Type 59
+    - Ear Type 60
+    - Ear Type 61
+    - Ear Type 62
+    - Ear Type 63
+    - Ear Type 64
+    - Ear Type 65
+    - Ear Type 66
+    - Ear Type 67
+    - Ear Type 68
+    - Ear Type 69
+    - Ear Type 70
+    - Ear Type 71
+    - Ear Type 72
+    - Ear Type 73
+    - Ear Type 74
+    - Ear Type 75
+    - Ear Type 76
+    - Ear Type 77
+    - Ear Type 78
+    - Ear Type 79
+    - Ear Type 80
+    - Ear Type 81
+    - Ear Type 82
+    - Ear Type 83
+    - Ear Type 84
+    - Ear Type 85
+    - Ear Type 86
+    - Ear Type 87
+    - Ear Type 88
+    - Ear Type 89
+    - Ear Type 90
+    - Ear Type 91
+    - Ear Type 92
+    - Ear Type 93
+    - Ear Type 94
+    - Ear Type 95
+    - Ear Type 96
+    - Ear Type 97
+    - Ear Type 98
+    - Ear Type 99
+    - Ear Type 100
+#### Mouth
+    - Mouth Type 1
+    - Mouth Type 2
+    - Mouth Type 3
+    - Mouth Type 4
+    - Mouth Type 5
+    - Mouth Type 6
+    - Mouth Type 7
+    - Mouth Type 8
+    - Mouth Type 9
+    - Mouth Type 10
+    - Mouth Type 11
+    - Mouth Type 12
+    - Mouth Type 13
+    - Mouth Type 14
+    - Mouth Type 15
+    - Mouth Type 16
+    - Mouth Type 17
+    - Mouth Type 18
+    - Mouth Type 19
+    - Mouth Type 20
+    - Mouth Type 21
+    - Mouth Type 22
+    - Mouth Type 23
+    - Mouth Type 24
+    - Mouth Type 25
+    - Mouth Type 26
+    - Mouth Type 27
+    - Mouth Type 28
+    - Mouth Type 29
+    - Mouth Type 30
+    - Mouth Type 31
+    - Mouth Type 32
+    - Mouth Type 33
+    - Mouth Type 34
+    - Mouth Type 35
+    - Mouth Type 36
+    - Mouth Type 37
+    - Mouth Type 38
+    - Mouth Type 39
+    - Mouth Type 40
+    - Mouth Type 41
+    - Mouth Type 42
+    - Mouth Type 43
+    - Mouth Type 44
+    - Mouth Type 45
+    - Mouth Type 46
+    - Mouth Type 47
+    - Mouth Type 48
+    - Mouth Type 49
+    - Mouth Type 50
+    - Mouth Type 51
+    - Mouth Type 52
+    - Mouth Type 53
+    - Mouth Type 54
+    - Mouth Type 55
+    - Mouth Type 56
+    - Mouth Type 57
+    - Mouth Type 58
+    - Mouth Type 59
+    - Mouth Type 60
+    - Mouth Type 61
+    - Mouth Type 62
+    - Mouth Type 63
+    - Mouth Type 64
+    - Mouth Type 65
+    - Mouth Type 66
+    - Mouth Type 67
+    - Mouth Type 68
+    - Mouth Type 69
+    - Mouth Type 70
+    - Mouth Type 71
+    - Mouth Type 72
+    - Mouth Type 73
+    - Mouth Type 74
+    - Mouth Type 75
+    - Mouth Type 76
+    - Mouth Type 77
+    - Mouth Type 78
+    - Mouth Type 79
+    - Mouth Type 80
+    - Mouth Type 81
+    - Mouth Type 82
+    - Mouth Type 83
+    - Mouth Type 84
+    - Mouth Type 85
+    - Mouth Type 86
+    - Mouth Type 87
+    - Mouth Type 88
+    - Mouth Type 89
+    - Mouth Type 90
+    - Mouth Type 91
+    - Mouth Type 92
+    - Mouth Type 93
+    - Mouth Type 94
+    - Mouth Type 95
+    - Mouth Type 96
+    - Mouth Type 97
+    - Mouth Type 98
+    - Mouth Type 99
+    - Mouth Type 100
+#### Facial Hair
+    - Mountain Man Beard
+    - Goatee
+    - Moustache
+    - Facial Hair Type 4
+    - Facial Hair Type 5
+    - Facial Hair Type 6
+    - Facial Hair Type 7
+    - Facial Hair Type 8
+    - Facial Hair Type 9
+    - Facial Hair Type 10
+    - Facial Hair Type 11
+    - Facial Hair Type 12
+    - Facial Hair Type 13
+    - Facial Hair Type 14
+    - Facial Hair Type 15
+    - Facial Hair Type 16
+    - Facial Hair Type 17
+    - Facial Hair Type 18
+    - Facial Hair Type 19
+    - Facial Hair Type 20
+    - Facial Hair Type 21
+    - Facial Hair Type 22
+    - Facial Hair Type 23
+    - Facial Hair Type 24
+    - Facial Hair Type 25
+    - Facial Hair Type 26
+    - Facial Hair Type 27
+    - Facial Hair Type 28
+    - Facial Hair Type 29
+    - Facial Hair Type 30
+    - Facial Hair Type 31
+    - Facial Hair Type 32
+    - Facial Hair Type 33
+    - Facial Hair Type 34
+    - Facial Hair Type 35
+    - Facial Hair Type 36
+    - Facial Hair Type 37
+    - Facial Hair Type 38
+    - Facial Hair Type 39
+    - Facial Hair Type 40
+    - Facial Hair Type 41
+    - Facial Hair Type 42
+    - Facial Hair Type 43
+    - Facial Hair Type 44
+    - Facial Hair Type 45
+    - Facial Hair Type 46
+    - Facial Hair Type 47
+    - Facial Hair Type 48
+    - Facial Hair Type 49
+    - Facial Hair Type 50
+    - Facial Hair Type 51
+    - Facial Hair Type 52
+    - Facial Hair Type 53
+    - Facial Hair Type 54
+    - Facial Hair Type 55
+    - Facial Hair Type 56
+    - Facial Hair Type 57
+    - Facial Hair Type 58
+    - Facial Hair Type 59
+    - Facial Hair Type 60
+    - Facial Hair Type 61
+    - Facial Hair Type 62
+    - Facial Hair Type 63
+    - Facial Hair Type 64
+    - Facial Hair Type 65
+    - Facial Hair Type 66
+    - Facial Hair Type 67
+    - Facial Hair Type 68
+    - Facial Hair Type 69
+    - Facial Hair Type 70
+    - Facial Hair Type 71
+    - Facial Hair Type 72
+    - Facial Hair Type 73
+    - Facial Hair Type 74
+    - Facial Hair Type 75
+    - Facial Hair Type 76
+    - Facial Hair Type 77
+    - Facial Hair Type 78
+    - Facial Hair Type 79
+    - Facial Hair Type 80
+    - Facial Hair Type 81
+    - Facial Hair Type 82
+    - Facial Hair Type 83
+    - Facial Hair Type 84
+    - Facial Hair Type 85
+    - Facial Hair Type 86
+    - Facial Hair Type 87
+    - Facial Hair Type 88
+    - Facial Hair Type 89
+    - Facial Hair Type 90
+    - Facial Hair Type 91
+    - Facial Hair Type 92
+    - Facial Hair Type 93
+    - Facial Hair Type 94
+    - Facial Hair Type 95
+    - Facial Hair Type 96
+    - Facial Hair Type 97
+    - Facial Hair Type 98
+    - Facial Hair Type 99
+    - Facial Hair Type 100
+#### Accessories
+    - Thick Rimmed Glasses
+    - Cross Shaped Scar
+    - Toothpick
+    - Accessory 4
+    - Accessory 5
+    - Accessory 6
+    - Accessory 7
+    - Accessory 8
+    - Accessory 9
+    - Accessory 10
+    - Accessory 11
+    - Accessory 12
+    - Accessory 13
+    - Accessory 14
+    - Accessory 15
+    - Accessory 16
+    - Accessory 17
+    - Accessory 18
+    - Accessory 19
+    - Accessory 20
+    - Accessory 21
+    - Accessory 22
+    - Accessory 23
+    - Accessory 24
+    - Accessory 25
+    - Accessory 26
+    - Accessory 27
+    - Accessory 28
+    - Accessory 29
+    - Accessory 30
+    - Accessory 31
+    - Accessory 32
+    - Accessory 33
+    - Accessory 34
+    - Accessory 35
+    - Accessory 36
+    - Accessory 37
+    - Accessory 38
+    - Accessory 39
+    - Accessory 40
+    - Accessory 41
+    - Accessory 42
+    - Accessory 43
+    - Accessory 44
+    - Accessory 45
+    - Accessory 46
+    - Accessory 47
+    - Accessory 48
+    - Accessory 49
+    - Accessory 50
+    - Accessory 51
+    - Accessory 52
+    - Accessory 53
+    - Accessory 54
+    - Accessory 55
+    - Accessory 56
+    - Accessory 57
+    - Accessory 58
+    - Accessory 59
+    - Accessory 60
+    - Accessory 61
+    - Accessory 62
+    - Accessory 63
+    - Accessory 64
+    - Accessory 65
+    - Accessory 66
+    - Accessory 67
+    - Accessory 68
+    - Accessory 69
+    - Accessory 70
+    - Accessory 71
+    - Accessory 72
+    - Accessory 73
+    - Accessory 74
+    - Accessory 75
+    - Accessory 76
+    - Accessory 77
+    - Accessory 78
+    - Accessory 79
+    - Accessory 80
+    - Accessory 81
+    - Accessory 82
+    - Accessory 83
+    - Accessory 84
+    - Accessory 85
+    - Accessory 86
+    - Accessory 87
+    - Accessory 88
+    - Accessory 89
+    - Accessory 90
+    - Accessory 91
+    - Accessory 92
+    - Accessory 93
+    - Accessory 94
+    - Accessory 95
+    - Accessory 96
+    - Accessory 97
+    - Accessory 98
+    - Accessory 99
+    - Accessory 100
+### Voice
+    - Voice 1
+    - Voice 2
+    - Voice 3
+    - Voice 4
+    - Voice 5
+    - Voice 6
+    - Voice 7
+    - Voice 8
+    - Voice 9
+    - Voice 10
+### Name
