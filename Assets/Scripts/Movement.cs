@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class Movement : Photon.PunBehaviour {
 	//Adjust the facing angle of this character to match world co-ordinates
