@@ -6580,3 +6580,315 @@ Furniture can be used to customize the player’s house to their liking. It come
     - Showing Off
 ##### Wallpaper
 ##### Flooring
+#### Furniture Series 31
+##### Bed
+    Actions:
+    - Sleeping
+##### Cabinet
+    Actions:
+    - Cloth Customization?
+##### Dining Chair
+    Actions:
+    - Sitting
+##### Living Chair
+    Actions:
+    - Sitting
+##### Desk
+    Actions:
+    - Reading
+##### Nightstand
+    Actions:
+    - Item Storage
+##### Dresser
+    Actions:
+    - Item Storage
+##### End Table
+    Actions:
+    - Not Determined
+##### Lamp
+    Actions:
+    - Not Determined
+##### Couch
+    Actions:
+    - Sitting
+##### Table
+    Actions:
+    - Eating
+    - Drinking
+##### Coffee Table
+    Actions:
+    - Eating
+    - Drinking
+##### Wardrobe
+    Actions:
+    - Item Storage
+##### Bookshelf
+    Actions:
+    - Reading
+##### Display
+    Actions:
+    - Item Storage
+##### Mirror
+    Actions:
+    - Character Customization?
+##### Kitchen Counter
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Kitchen Island
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Food Storage
+    Actions:
+    - Item Storage
+##### Fireplace
+    Actions:
+    - Not Determined
+##### Unique Object
+    Actions:
+    - Showing Off
+##### Centre Piece
+    Actions:
+    - Showing Off
+##### Accent Item
+    Actions:
+    - Showing Off
+##### Wallpaper
+##### Flooring
+#### Furniture Series 32
+##### Bed
+    Actions:
+    - Sleeping
+##### Cabinet
+    Actions:
+    - Cloth Customization?
+##### Dining Chair
+    Actions:
+    - Sitting
+##### Living Chair
+    Actions:
+    - Sitting
+##### Desk
+    Actions:
+    - Reading
+##### Nightstand
+    Actions:
+    - Item Storage
+##### Dresser
+    Actions:
+    - Item Storage
+##### End Table
+    Actions:
+    - Not Determined
+##### Lamp
+    Actions:
+    - Not Determined
+##### Couch
+    Actions:
+    - Sitting
+##### Table
+    Actions:
+    - Eating
+    - Drinking
+##### Coffee Table
+    Actions:
+    - Eating
+    - Drinking
+##### Wardrobe
+    Actions:
+    - Item Storage
+##### Bookshelf
+    Actions:
+    - Reading
+##### Display
+    Actions:
+    - Item Storage
+##### Mirror
+    Actions:
+    - Character Customization?
+##### Kitchen Counter
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Kitchen Island
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Food Storage
+    Actions:
+    - Item Storage
+##### Fireplace
+    Actions:
+    - Not Determined
+##### Unique Object
+    Actions:
+    - Showing Off
+##### Centre Piece
+    Actions:
+    - Showing Off
+##### Accent Item
+    Actions:
+    - Showing Off
+##### Wallpaper
+##### Flooring
+#### Furniture Series 33
+##### Bed
+    Actions:
+    - Sleeping
+##### Cabinet
+    Actions:
+    - Cloth Customization?
+##### Dining Chair
+    Actions:
+    - Sitting
+##### Living Chair
+    Actions:
+    - Sitting
+##### Desk
+    Actions:
+    - Reading
+##### Nightstand
+    Actions:
+    - Item Storage
+##### Dresser
+    Actions:
+    - Item Storage
+##### End Table
+    Actions:
+    - Not Determined
+##### Lamp
+    Actions:
+    - Not Determined
+##### Couch
+    Actions:
+    - Sitting
+##### Table
+    Actions:
+    - Eating
+    - Drinking
+##### Coffee Table
+    Actions:
+    - Eating
+    - Drinking
+##### Wardrobe
+    Actions:
+    - Item Storage
+##### Bookshelf
+    Actions:
+    - Reading
+##### Display
+    Actions:
+    - Item Storage
+##### Mirror
+    Actions:
+    - Character Customization?
+##### Kitchen Counter
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Kitchen Island
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Food Storage
+    Actions:
+    - Item Storage
+##### Fireplace
+    Actions:
+    - Not Determined
+##### Unique Object
+    Actions:
+    - Showing Off
+##### Centre Piece
+    Actions:
+    - Showing Off
+##### Accent Item
+    Actions:
+    - Showing Off
+##### Wallpaper
+##### Flooring
+#### Furniture Series 34
+##### Bed
+    Actions:
+    - Sleeping
+##### Cabinet
+    Actions:
+    - Cloth Customization?
+##### Dining Chair
+    Actions:
+    - Sitting
+##### Living Chair
+    Actions:
+    - Sitting
+##### Desk
+    Actions:
+    - Reading
+##### Nightstand
+    Actions:
+    - Item Storage
+##### Dresser
+    Actions:
+    - Item Storage
+##### End Table
+    Actions:
+    - Not Determined
+##### Lamp
+    Actions:
+    - Not Determined
+##### Couch
+    Actions:
+    - Sitting
+##### Table
+    Actions:
+    - Eating
+    - Drinking
+##### Coffee Table
+    Actions:
+    - Eating
+    - Drinking
+##### Wardrobe
+    Actions:
+    - Item Storage
+##### Bookshelf
+    Actions:
+    - Reading
+##### Display
+    Actions:
+    - Item Storage
+##### Mirror
+    Actions:
+    - Character Customization?
+##### Kitchen Counter
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Kitchen Island
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Food Storage
+    Actions:
+    - Item Storage
+##### Fireplace
+    Actions:
+    - Not Determined
+##### Unique Object
+    Actions:
+    - Showing Off
+##### Centre Piece
+    Actions:
+    - Showing Off
+##### Accent Item
+    Actions:
+    - Showing Off
+##### Wallpaper
+##### Flooring
