@@ -4232,3 +4232,89 @@ Masks are able to be leveled, and certain masks will be more powerful and more r
     Description:101
     Refined Mask:
     Perfected Mask:
+## Furniture
+Furniture can be used to customize the player’s house to their liking. It comes in a variety of sets and themes, and there are certain unique pieces that will require the player to either craft on their own, or get from a wandering adventurer or difficult quest.
+### Grid Sizes
+    - Small (1x1)
+    - Medium (1x2)
+    - Large (2x2)
+### Furniture Series 
+    (Each Furniture Series has 25 items in it's set, including matching wallpaper and flooring)
+#### Furniture Series 1
+##### Bed
+    Actions:
+    - Sleeping
+##### Cabinet
+    Actions:
+    - Cloth Customization?
+##### Dining Chair
+    Actions:
+    - Sitting
+##### Living Chair
+    Actions:
+    - Sitting
+##### Desk
+    Actions:
+    - Reading
+##### Nightstand
+    Actions:
+    - Item Storage
+##### Dresser
+    Actions:
+    - Item Storage
+##### End Table
+    Actions:
+    - Not Determined
+##### Lamp
+    Actions:
+    - Not Determined
+##### Couch
+    Actions:
+    - Sitting
+##### Table
+    Actions:
+    - Eating
+    - Drinking
+##### Coffee Table
+    Actions:
+    - Eating
+    - Drinking
+##### Wardrobe
+    Actions:
+    - Item Storage
+##### Bookshelf
+    Actions:
+    - Reading
+##### Display
+    Actions:
+    - Item Storage
+##### Mirror
+    Actions:
+    - Character Customization?
+##### Kitchen Counter
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Kitchen Island
+    Actions:
+    - Cooking
+    - Eating
+    - Drinking
+##### Food Storage
+    Actions:
+    - Item Storage
+##### Fireplace
+    Actions:
+    - Not Determined
+##### Unique Object
+    Actions:
+    - Showing Off
+##### Centre Piece
+    Actions:
+    - Showing Off
+##### Accent Item
+    Actions:
+    - Showing Off
+##### Wallpaper
+##### Flooring
